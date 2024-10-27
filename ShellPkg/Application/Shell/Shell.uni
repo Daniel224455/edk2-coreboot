@@ -49,5 +49,3 @@
 #string STR_SHELL_NO_IN_EX            #language en-US "No SimpleTextInputEx was found. CTRL-based features are not usable.\r\n"
 
 #string STR_SHELL_IMAGE_NOT_APP       #language en-US "The image is not an application.\r\n"
-
-#string STR_SHELL_WELCOME             #language en-US "\r\nWelcome to the UEFI Shell!\r\n\r\nIf you wound up here by mistake, just type 'exit' to return to the UEFI Options Menu.\r\n\r\n"
